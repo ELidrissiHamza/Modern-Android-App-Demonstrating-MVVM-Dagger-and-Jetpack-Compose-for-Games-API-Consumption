@@ -30,9 +30,7 @@ An app that consumes a gaming API and returns a list of games built with Jetpack
 
 [Documentation](https://www.freetogame.com/api-doc)
 
-## Tutorial on YouTube
 
-[Tutorial on YouTube](https://youtu.be/e2tvVJtfGQM)
 
 ![App Screenshot](https://pbs.twimg.com/media/FkN2r7bWYAAwZP_?format=jpg&name=large)
 "# Modern-Android-App-Demonstrating-MVVM-Dagger-and-Jetpack-Compose-for-Games-API-Consumption" 
